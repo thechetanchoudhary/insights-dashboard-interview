@@ -24,7 +24,7 @@ Complete an in progress Dashboard that gives a user insights into their accounts
 While we do not anticipate this taking more than a few hours, we understand that life happens and we want you to have as much time as you need to complete the project.  You will have 1 week to complete this task.  Feel free to reach out to us if you feel like you need more time.
 
 ### Submission
-Submit your finished project with notes on how to run it in an email to Don Heins dheins@lsq.com.
+Submit your finished project with notes on how to run it in an email to Christoper Fontaine cfontaine@lsq.com.
 
 Feel free to reach out with any questions.
 
